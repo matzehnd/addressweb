@@ -4,7 +4,7 @@
       <div class="text-xl">Matthias Meier</div>
       <user-circle-icon class="h-8 w-8 text-gray-400" />
     </div>
-    <div class="flex flex-col space-y-2">
+    <div class="flex flex-col space-y-1">
       <phone-number>079'527'52'73</phone-number>
       <address-small>
         <div class="flex flex-col">
